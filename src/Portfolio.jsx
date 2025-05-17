@@ -12,7 +12,7 @@ const skillCategories = [
   },
   {
     title: "Testing & Automation",
-    skills: ["Selenium", "JUnit", "TestNG", "POM", "Cucumber", "Cypress", "Postman"]
+    skills: ["Selenium", "JUnit", "TestNG", "POM", "Cucumber", "Cypress", "Postman", "Hello"]
   },
   {
     title: "Cloud & Security",
