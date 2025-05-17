@@ -1,16 +1,19 @@
-name: Deploy React Portfolio
+# Copyright Saanya Dhir
+# SPDX-License-Identifier: MIT
+
+name: End-End Code Deployment Pipeline
 
 on:
   push:
     branches:
-      - main
+      - main  # Trigger on main branch
 
 jobs:
-  build-and-deploy:
+  build_project:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v3
 
       - name: Set up Node.js
@@ -18,10 +21,10 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
-      - name: Build project
+      - name: Build Project
         run: npm run build
 
       - name: Deploy to GitHub Pages
