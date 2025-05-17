@@ -4,7 +4,7 @@ import { Mail, Linkedin, CheckCircle } from "lucide-react";
 const skillCategories = [
   {
     title: "Programming Languages",
-    skills: ["C", "C++", "Java", "Python"]
+    skills: ["C++", "Java", "Python"]
   },
   {
     title: "Database",
