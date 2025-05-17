@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saanya-portfolio/static/css/main.b61620d2.css",
+    "main.js": "/saanya-portfolio/static/js/main.0578db4b.js",
+    "static/js/453.8c9279d2.chunk.js": "/saanya-portfolio/static/js/453.8c9279d2.chunk.js",
+    "index.html": "/saanya-portfolio/index.html",
+    "main.b61620d2.css.map": "/saanya-portfolio/static/css/main.b61620d2.css.map",
+    "main.0578db4b.js.map": "/saanya-portfolio/static/js/main.0578db4b.js.map",
+    "453.8c9279d2.chunk.js.map": "/saanya-portfolio/static/js/453.8c9279d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61620d2.css",
+    "static/js/main.0578db4b.js"
+  ]
+}
