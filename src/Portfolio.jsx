@@ -146,7 +146,7 @@ const NAV_SECTIONS = [
 export default function Portfolio() {
     const [activeSection, setActiveSection] = useState("home");
     const [showResume, setShowResume] = useState(false);
-    const sectionRefs = useRef({});
+    //const sectionRefs = useRef({});
 
     // Scroll spy effect
     useEffect(() => {
