@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState } from "react";
 import { Mail, Linkedin, CheckCircle, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import image from './Content/Photo.jpg'
