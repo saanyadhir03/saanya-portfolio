@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/saanya-portfolio/static/css/main.b61620d2.css",
-    "main.js": "/saanya-portfolio/static/js/main.eb4e30a0.js",
+    "main.css": "/saanya-portfolio/static/css/main.694dc77f.css",
+    "main.js": "/saanya-portfolio/static/js/main.2e59fd7d.js",
     "static/js/453.8c9279d2.chunk.js": "/saanya-portfolio/static/js/453.8c9279d2.chunk.js",
+    "static/media/Photo.jpg": "/saanya-portfolio/static/media/Photo.dad7740fb503e338b5d2.jpg",
+    "static/media/QA.pdf": "/saanya-portfolio/static/media/QA.f2dc4aef0537df6b5685.pdf",
     "index.html": "/saanya-portfolio/index.html",
-    "main.b61620d2.css.map": "/saanya-portfolio/static/css/main.b61620d2.css.map",
-    "main.eb4e30a0.js.map": "/saanya-portfolio/static/js/main.eb4e30a0.js.map",
+    "main.694dc77f.css.map": "/saanya-portfolio/static/css/main.694dc77f.css.map",
+    "main.2e59fd7d.js.map": "/saanya-portfolio/static/js/main.2e59fd7d.js.map",
     "453.8c9279d2.chunk.js.map": "/saanya-portfolio/static/js/453.8c9279d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b61620d2.css",
-    "static/js/main.eb4e30a0.js"
+    "static/css/main.694dc77f.css",
+    "static/js/main.2e59fd7d.js"
   ]
 }
